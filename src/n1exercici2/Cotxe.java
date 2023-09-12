@@ -12,7 +12,8 @@ public class Cotxe {
     }
     //Constructor
     public Cotxe (int potencia) {
-        this.potencia = potencia; //No és un atribut estàtic. Per tant, cada instància de la classe pot tenir un valor diferent.
+        this.potencia = potencia;
+        //'potencia' no és un atribut estàtic. Per tant, cada instància de la classe pot tenir-hi un valor diferent, i el podem inicialitzar amb el constructor.
     }
     //Getters
     public String getMarca() {
@@ -30,7 +31,7 @@ public class Cotxe {
     public static void setModel(String nouModel) {
         model = nouModel;
     }
-    //No hi pot haver Setter per Marca o Potencia, ja que son Finals
+    //No hi pot haver Setter per Marca o Potencia, ja que son Finals.
 
     //Class Methods
     public static void frenar() {

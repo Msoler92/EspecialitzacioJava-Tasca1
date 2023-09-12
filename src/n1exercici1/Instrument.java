@@ -10,7 +10,7 @@ public abstract class Instrument {
     }
 
     static {
-        System.out.println("Aquesta és la classe Instrument.");
+        System.out.println("Aquest és un bloc estàtic de la classe Instrument.");
     }
 
     abstract void tocar();

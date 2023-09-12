@@ -6,7 +6,11 @@ public class Corda extends Instrument {
     }
 
     static {
-        System.out.println("Aquesta és la classe Corda.");
+        System.out.println("Aquest és un bloc estàtic de la classe Corda.");
+    }
+
+    public float getPrice() {
+        return price;
     }
     public void tocar() {
         System.out.println("Està sonant un instrument de corda.");

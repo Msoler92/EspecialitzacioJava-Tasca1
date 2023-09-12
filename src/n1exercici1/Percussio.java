@@ -6,7 +6,11 @@ public class Percussio extends Instrument {
     }
 
     static {
-        System.out.println("Aquesta és la classe Percussio.");
+        System.out.println("Aquest és un bloc estàtic de la classe Percussio.");
+    }
+
+    public float getPrice() {
+        return price;
     }
     public void tocar() {
         System.out.println("Està sonant un instrument de percussió.");

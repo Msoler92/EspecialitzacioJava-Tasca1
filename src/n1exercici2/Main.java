@@ -2,7 +2,7 @@ package n1exercici2;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Creem dos objectes de la classe Cotxe");
+        System.out.println("Creem dos objectes de la classe Cotxe, inicialitzant 'potencia' amb el constructor.");
         Cotxe cotxe1 = new Cotxe(2200);
         Cotxe cotxe2 = new Cotxe(1100);
 
@@ -18,7 +18,7 @@ public class Main {
         System.out.println("Potencia: " + cotxe2.getPotencia());
         System.out.println();
 
-        //No podem canviar la marca ni la potència, per ser finals.
+
         //Podem canviar el model, però com que és estàtic el canvi afectarà a la classe (i, per tant, a totes les instàncies individuals)
         System.out.println("Canviem el Model a \"NouModel\".");
         System.out.println();
@@ -32,6 +32,9 @@ public class Main {
         System.out.println("Marca: " + cotxe2.getMarca());
         System.out.println("Model: " + cotxe2.getModel());
         System.out.println("Potencia: " + cotxe2.getPotencia());
+        System.out.println();
+
+        System.out.println("No podem canviar la marca ni la potència, per ser finals.");
         System.out.println();
 
         System.out.println("Cridem el mètode Accelerar():");
