@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90fcfa50-8bb7-45ed-b2de-8063cdcc1747" name="Changes" comment="Nou repo">
-      <change afterPath="$PROJECT_DIR$/src/n3exercici1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3exercici1/Noticia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaBasquet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaF1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaFutbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaMoto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaTenis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3exercici1/Redactor.java" afterDir="false" />
+    <list default="true" id="90fcfa50-8bb7-45ed-b2de-8063cdcc1747" name="Changes" comment="Nivell 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +183,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694520006378</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Nivell 3">
+      <option name="closed" value="true" />
+      <created>1694605529942</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694605529942</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Nivell 3">
+      <option name="closed" value="true" />
+      <created>1694605603918</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694605603918</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +218,7 @@
     <MESSAGE value="Second test commit" />
     <MESSAGE value="Nivell 2" />
     <MESSAGE value="Nou repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nou repo" />
+    <MESSAGE value="Nivell 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nivell 3" />
   </component>
 </project>
