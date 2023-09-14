@@ -40,4 +40,9 @@ public class NoticiaBasquet extends Noticia {
         }
         return puntsFinal;
     }
+    public String toString() {
+        return super.toString() +
+                "Competició: " + competicio + "\n" +
+                "Club: " + club + "\n";
+    }
 }

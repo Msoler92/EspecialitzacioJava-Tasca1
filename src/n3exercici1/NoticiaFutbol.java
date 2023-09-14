@@ -51,10 +51,9 @@ public class NoticiaFutbol extends Noticia {
 
 
     public String toString() {
-        return "NoticiaFutbol{" +
-                "competicio='" + competicio + '\'' +
-                ", club='" + club + '\'' +
-                ", jugador='" + jugador + '\'' +
-                "} " + super.toString();
+        return super.toString() +
+                "Competició: " + competicio + "\n" +
+                "Club: " + club + "\n" +
+                "Jugador: " + jugador + "\n";
     }
 }

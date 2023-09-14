@@ -31,4 +31,9 @@ public class NoticiaF1 extends Noticia {
         return puntsFinal;
     }
 
+    public String toString() {
+        return super.toString() +
+                "Escuderia: " + escuderia + "\n";
+    }
+
 }

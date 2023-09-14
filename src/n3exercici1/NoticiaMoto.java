@@ -31,4 +31,8 @@ public class NoticiaMoto extends Noticia {
         }
         return puntsFinal;
     }
+    public String toString() {
+        return super.toString() +
+                "Equip: " + equip + "\n";
+    }
 }

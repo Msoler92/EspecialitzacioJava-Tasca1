@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90fcfa50-8bb7-45ed-b2de-8063cdcc1747" name="Changes" comment="Nivell 3">
+    <list default="true" id="90fcfa50-8bb7-45ed-b2de-8063cdcc1747" name="Changes" comment="Nivell 3.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/NoticiaBasquet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaBasquet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/NoticiaF1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaF1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/NoticiaFutbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaFutbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/NoticiaMoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaMoto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n3exercici1/NoticiaTenis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n3exercici1/NoticiaTenis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694605603918</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Nivell 3.1">
+      <option name="closed" value="true" />
+      <created>1694606402019</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694606402019</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +232,7 @@
     <MESSAGE value="Nivell 2" />
     <MESSAGE value="Nou repo" />
     <MESSAGE value="Nivell 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nivell 3" />
+    <MESSAGE value="Nivell 3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nivell 3.1" />
   </component>
 </project>
